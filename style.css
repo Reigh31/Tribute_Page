@@ -1,0 +1,47 @@
+h1 {
+    text-align: center;
+    color: blue;
+    margin: auto;
+}
+
+p {
+    text-align: center;
+    color: rgba(253, 253, 253, 1); 
+    font-size: large;
+}
+
+.Frame {
+    border: 50px solid gold;
+    width: 1080;
+    height: 1920;
+    padding: 60px;
+    margin: 20px auto;
+}
+
+.border1 {
+    background-image: url(https://imgs.search.brave.com/_w7xiXlTLGq-ep3-bQuajAvaDmc2MhhDFFfuu8IS_0Q/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9oaXBz/LmhlYXJzdGFwcHMu/Y29tL2htZy1wcm9k/L2ltYWdlcy9nZXR0/eWltYWdlcy0xMTYz/MjkzMDkyLmpwZz9j/cm9wPTF4dzoxLjB4/aDtjZW50ZXIsdG9w/JnJlc2l6ZT02NDA6/Kg);
+    background-size: cover;
+    border-radius: 1px;
+    width: 700px;
+    height: 600px;
+    margin: auto;
+}
+
+.head {
+    width: 425px;
+    height: 280px;
+    background-color: rgba(239, 183, 98, 0.5); 
+    box-shadow: 0 0 3px 3px rgba(239, 183, 98, 0.5);
+    border-radius: 9px;
+    margin: auto;
+}
+
+body {
+    background-image: url(https://as2.ftcdn.net/v2/jpg/09/12/79/07/1000_F_912790756_42bIgugw69T8QBO2VRozuiH7psPKvXF4.jpg);
+    background-size: cover;
+}
+
+h2{
+    text-align: center;
+    color: white;
+}
